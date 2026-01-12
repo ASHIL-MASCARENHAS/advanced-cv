@@ -29,4 +29,13 @@ A modular Computer Vision system designed to explore Human-Computer Interaction 
     - `3`: AI Trainer (Logs data automatically)
 
 ## 📊 Data Acquisition
+
 The system automatically engineers a dataset (`workout_data.csv`) during training sessions, enabling further analysis of user fatigue patterns and repetition consistency.
+
+## 📸 System Screenshots
+| Main Menu | AI Trainer |
+|:---:|:---:|
+| ![Main Menu](menu.png) | ![Trainer](virtualTrainer.png) |
+
+**Data Verification:**
+![CSV Data Log](csv_screenshot_filename.png)

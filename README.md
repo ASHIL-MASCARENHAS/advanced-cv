@@ -38,5 +38,6 @@ The system automatically engineers a dataset (`workout_data.csv`) during trainin
 | ![Main Menu](menu.png) | ![Trainer](virtualTrainer.png) | ![Painter](virtualPainter.png)
 
 **Data Verification:**
-![CSV Data Log](csv_screenshot_filename.png)
+![CSV Data Log](csv.png)
+
 

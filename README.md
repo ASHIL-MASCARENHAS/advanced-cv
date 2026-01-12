@@ -33,11 +33,9 @@ A modular Computer Vision system designed to explore Human-Computer Interaction 
 The system automatically engineers a dataset (`workout_data.csv`) during training sessions, enabling further analysis of user fatigue patterns and repetition consistency.
 
 ## 📸 System Screenshots
-| Main Menu | AI Trainer |
-|:---:|:---:|
-| ![Main Menu](menu.png) | ![Trainer](virtualTrainer.png) | ![Painter](virtualPainter.png)
+| Main Menu | AI Trainer | Virtual Painter |
+|:---:|:---:|:---:|
+| ![Main Menu](menu.png) | ![Trainer](virtualTrainer.png) | ![Painter](virtualPainter.png) |
 
 **Data Verification:**
 ![CSV Data Log](csv.png)
-
-
